@@ -1,0 +1,37 @@
+{
+  "order_id": "ORD-F6A6CE71",
+  "date": "2026-06-01",
+  "customer": {
+    "name": "Trần Hoàng Anh",
+    "phone": "0982345678",
+    "email": "hoanganh@example.com",
+    "tier": "standard",
+    "shipping_address": "102 Lê Văn Sỹ, Phú Nhuận, TP.HCM"
+  },
+  "items": [
+    {
+      "product_id": "LT-004",
+      "quantity": 1
+    },
+    {
+      "product_id": "MN-001",
+      "quantity": 1
+    },
+    {
+      "product_id": "KB-002",
+      "quantity": 1
+    },
+    {
+      "product_id": "DK-001",
+      "quantity": 1
+    }
+  ],
+  "financials": {
+    "subtotal": 35670000,
+    "discount_rate": 0.1,
+    "discount_amount": 3567000,
+    "final_total": 32103000
+  },
+  "campaign_code": "PROMO-10",
+  "notes": ""
+}

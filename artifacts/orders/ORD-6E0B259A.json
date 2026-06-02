@@ -1,0 +1,33 @@
+{
+  "order_id": "ORD-6E0B259A",
+  "date": "2026-06-01",
+  "customer": {
+    "name": "Nguyễn Lan Anh",
+    "phone": "0901234567",
+    "email": "lananh@example.com",
+    "tier": "standard",
+    "shipping_address": "18 Nguyễn Huè, Quận 1, TP.HCM"
+  },
+  "items": [
+    {
+      "product_id": "LT-001",
+      "quantity": 1
+    },
+    {
+      "product_id": "MN-002",
+      "quantity": 1
+    },
+    {
+      "product_id": "MS-001",
+      "quantity": 2
+    }
+  ],
+  "financials": {
+    "subtotal": 42270000,
+    "discount_rate": 0.1,
+    "discount_amount": 4227000,
+    "final_total": 38043000
+  },
+  "campaign_code": "PROMO-10",
+  "notes": ""
+}
